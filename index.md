@@ -1,4 +1,7 @@
-## Projects
+---
+layout: page
+title: Frontpage
+---
 
 Kinderküche
 
