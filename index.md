@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Kinderküche
+## Kinderküche
 
 ## Wood Duplo Blocks
 
