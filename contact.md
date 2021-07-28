@@ -1,4 +1,4 @@
 ---
 layout: page
-permalink: contact.html
+permalink: /contact/
 ---
