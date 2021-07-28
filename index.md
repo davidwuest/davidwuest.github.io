@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Frontpage
+title: none
 ---
 
 Kinderküche
