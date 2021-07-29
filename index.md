@@ -15,6 +15,4 @@ layout: home
 >
 >  *Everything* is going according to **plan**.
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
-
 ![Kinder Küche!](/assets/images/kinderküche.svg "Kinderküche")
