@@ -2,17 +2,6 @@
 layout: home
 ---
 
-## Kinderküche
+Kinderküche
 
-## Wood Duplo Blocks
-
-> Dorothy followed her through many of the beautiful rooms in her castle.
-
-> #### The quarterly results look great!
->
-> - Revenue was off the chart.
-> - Profits were higher than ever.
->
->  *Everything* is going according to **plan**.
-
-![Kinder Küche!](/assets/images/kinderküche.svg "Kinderküche")
+![Kinder Küche!](/assets/images/kinderkueche.svg "Kinderküche")
